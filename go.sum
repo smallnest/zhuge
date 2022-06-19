@@ -1,0 +1,4 @@
+github.com/pyroscope-io/client v0.2.3 h1:6zczkFcjU3fH1dox4dtbY6obY40Ipgr2OHJwuA43O14=
+github.com/pyroscope-io/client v0.2.3/go.mod h1:zRdQXIGxy0H2QbKEkCmZBR6KOLLIFYLWsdzVI0MRm2E=
+github.com/pyroscope-io/client v0.2.4-0.20220607180407-0ba26860ce5b h1:5YuLgMAQ7XbW8Kmccwv0C1vkl85SG7ItLC8AdMtCFOs=
+github.com/pyroscope-io/client v0.2.4-0.20220607180407-0ba26860ce5b/go.mod h1:zRdQXIGxy0H2QbKEkCmZBR6KOLLIFYLWsdzVI0MRm2E=
