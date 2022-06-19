@@ -3,7 +3,7 @@
 
 在程序CPU、内存等异常的情况下，自动生成Profile并提交到Profiler以便分析。
 
-
+![](docs/zhuge.png)
 
 ## Credits 
 
